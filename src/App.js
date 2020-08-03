@@ -1,24 +1,22 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React,{useState} from "react";
+import "./App.scss";
+import Header from "./components/Header";
+import Base from "./components/Base";
+import Pxtorem from "./components/Pxtorem";
+import Remtopx from "./components/Remtopx";
+import Footer from "./components/Footer";
 
 function App() {
+  const [base,setBase] = useState(16)
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <div className="app-wrapper">
+        <Header />
+        <Base setBase={setBase} base={base}/>
+        <Pxtorem base={base}/>
+        <Remtopx base={base} />
+        <Footer />
+      </div>
     </div>
   );
 }
