@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/pxtorem/static/css/main.e2d3cb74.chunk.css",
+    "main.js": "/pxtorem/static/js/main.29916618.chunk.js",
+    "main.js.map": "/pxtorem/static/js/main.29916618.chunk.js.map",
+    "runtime-main.js": "/pxtorem/static/js/runtime-main.bbc96db0.js",
+    "runtime-main.js.map": "/pxtorem/static/js/runtime-main.bbc96db0.js.map",
+    "static/js/2.56842a84.chunk.js": "/pxtorem/static/js/2.56842a84.chunk.js",
+    "static/js/2.56842a84.chunk.js.map": "/pxtorem/static/js/2.56842a84.chunk.js.map",
+    "index.html": "/pxtorem/index.html",
+    "precache-manifest.5f5af18230c8dfa1efd104ee5ae6cbdb.js": "/pxtorem/precache-manifest.5f5af18230c8dfa1efd104ee5ae6cbdb.js",
+    "service-worker.js": "/pxtorem/service-worker.js",
+    "static/css/main.e2d3cb74.chunk.css.map": "/pxtorem/static/css/main.e2d3cb74.chunk.css.map",
+    "static/js/2.56842a84.chunk.js.LICENSE.txt": "/pxtorem/static/js/2.56842a84.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/pxtorem/static/media/logo.c9701157.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bbc96db0.js",
+    "static/js/2.56842a84.chunk.js",
+    "static/css/main.e2d3cb74.chunk.css",
+    "static/js/main.29916618.chunk.js"
+  ]
+}
