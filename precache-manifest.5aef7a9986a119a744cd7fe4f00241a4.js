@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "397da80658e8cd81bcc51444fe07b23f",
+    "revision": "82ed7d99e03f90e034b9fc955b7024b1",
     "url": "/pxtorem/index.html"
   },
   {
-    "revision": "2ef1c35d2293a0d3d86f",
+    "revision": "9b282b1fb5a4d5c54620",
     "url": "/pxtorem/static/css/main.e2d3cb74.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pxtorem/static/js/2.56842a84.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2ef1c35d2293a0d3d86f",
-    "url": "/pxtorem/static/js/main.29916618.chunk.js"
+    "revision": "9b282b1fb5a4d5c54620",
+    "url": "/pxtorem/static/js/main.4526c082.chunk.js"
   },
   {
     "revision": "105fd1ee23857785a534",
