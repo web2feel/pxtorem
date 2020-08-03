@@ -1,6 +1,6 @@
 {
-  "homepage":"http://web2feel.github.io/",
-  "name": "pxorem",
+  "homepage":"http://web2feel.github.io/pxtorem",
+  "name": "pxtorem",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -16,6 +16,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
+    "deploy": "gh-pages -d build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
